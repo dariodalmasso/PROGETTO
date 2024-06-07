@@ -1,0 +1,98 @@
+
+header{
+    width: 100%;
+}
+body {
+    background-color: black;
+    height: 200px; 
+    width: 100%;
+    
+}
+footer{
+    background-color: rgb(11, 11, 11);
+    height: 75px; 
+    width: 100%;
+
+}
+ul {
+    list-style-type: none;
+}
+h1{
+    color: white;
+    background: lightgreen; 
+    height: 200 px;
+    width: 100%;
+}
+h2{
+   
+    height: 200 px;
+    width: 100%;
+    font-size: 40px; 
+    color: white;
+}
+h3{
+    height: 125 px;
+    width: 100%;
+    font-size: 35px; 
+    color: rgb(47, 108, 66); 
+
+}
+h4{
+    color: green;
+    font-size: 50px;
+
+}
+ 
+p{
+     
+    color: white;
+
+}
+ol{
+    color: white;
+    background: darkgreen; 
+    height: 200 px;
+    width: 100%;
+
+}
+img{
+
+    height: 220px;
+    border-radius: 10px;
+    
+
+
+}
+
+h5{
+    height: 125 px;
+    width: 100%;
+    font-size: 25px; 
+    color: rgb(44, 176, 84);
+}
+table{
+    height: 50 px;
+    width: 20%;
+    color: white;
+    border: 50px;
+    
+}
+a{
+    color: white;
+}
+form{
+    margin-left: 20 px;
+}
+label{
+    color: green;
+}
+h6{
+    height: 125 px;
+    width: 100%;
+    font-size: 15px; 
+    color: rgb(81, 253, 133); 
+}
+TD{
+    border-style: solid;
+
+}
